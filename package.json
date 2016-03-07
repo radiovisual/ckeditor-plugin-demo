@@ -1,0 +1,27 @@
+{
+  "name": "ckeditor-plugin-demo",
+  "version": "1.0.0",
+  "description": "Demo the simple setup of a CKEditor Plugin with annotated source.",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radiovisual/ckeditor-plugin-demo.git"
+  },
+  "keywords": [
+    "ckeditor",
+    "plugin",
+    "demo"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radiovisual/ckeditor-plugin-demo/issues"
+  },
+  "homepage": "https://github.com/radiovisual/ckeditor-plugin-demo#readme",
+  "devDependencies": {
+    "xo": "^0.13.0"
+  }
+}
